@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+}
+.movementObject {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  position: absolute;
+
+}
